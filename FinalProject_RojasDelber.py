@@ -1,3 +1,7 @@
+#Delber Rojas 
+#5/11/2026
+#Final Project 
+#make a text game 
 
 import random, time
 
